@@ -1,4 +1,4 @@
-public class Ex1 {
+public class Exercicio12 {
     public static void main(String[] args){
         float saldoinicial = 15;
         float percentjuros = 10;
