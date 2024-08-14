@@ -1,4 +1,4 @@
-public class MediaAritmetica {
+public class Exercicio6 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
